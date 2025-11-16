@@ -22,7 +22,7 @@ You can call me **Yi哥**
 
 ---
 
-## ⚡ Fun Facts | 趣事
+## ⚡ Interests | 兴趣
 - Passionate about coding and trading  
   热爱编程与量化交易  
 - Enjoy exploring crypto and AI intersections  
