@@ -8,8 +8,8 @@ You can call me **Yi哥**  (if you like)
   北京邮电大学 25 届软件工程学生  
 - 🏆 Former OI (Olympiad in Informatics) contestant  
   曾经是 OI（信息学奥赛）选手  
-- 💹 Crypto quantitative trader, mainly derivatives, sometimes just chatting about crypto  
-  币圈量化交易员，主做合约，偶尔嘴撸  
+- 💹 Crypto quantitative trader, mainly derivatives 
+  币圈量化交易员
 - 🤖 Currently experimenting with developing AI Agents  
   正在尝试开发 AI Agent  
 - 🌐 Learning blockchain technology  
